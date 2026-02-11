@@ -4,7 +4,7 @@ This is an implemention for our paper based on Pytorch
 
 Dimos: Diffusion model with unified sequential state space for session-based recommendation
 
-This paper is currently under peer review.
+This paper is just accepted by Engineering Applications of Artificial Intelligence.
 
 # Dataset
 We provide one dataset: Diginetica. 
