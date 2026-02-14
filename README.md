@@ -17,6 +17,8 @@ The Retailrocket dataset can be found at: https://www.kaggle.com/retailrocket/ec
 
 1. Environment: I have tested this code with python=3.8.10 Pytorch=2.0.0 CUDA=11.8
 
+git clone https://github.com/usernameAI/Dimos
+
 Install RecBole: `pip install recbole`
 
 2. Run Dimos
